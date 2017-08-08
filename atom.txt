@@ -1,0 +1,36 @@
+ATOM 1.1 - Intro to video for atom
+ATOM 1.2 - Going to atom.io
+ATOM 1.3 - Downloading Atom
+ATOM 1.4 - Running atom
+ATOM 1.5 - Outro to video for atom
+
+
+
+ATOM 1.1 - Intro to video for atom
+Hey friends! Chris from Codify Academy here.
+
+In this video i'm going to show you how to download the text editor Atom for a PC.
+This is the tool we going to use to write code that creates websites.
+
+ATOM 1.2 - Going to atom.io
+Make sure to have a google chrome open, then type atom.io into the search bar, press enter.
+
+This website knows what operating system so you can click download installer.
+
+
+ATOM 1.3 - Downloading Atom
+Now we wait for the atom execute file to download
+You might want to pause the video at this point,
+it takes a minute.
+
+
+ATOM 1.4 - Running the program google chrome
+Once downloaded left click the .exe file to start the setup.
+
+This also takes a minutes so again pause the video until that's done.
+
+This is what atom looks like when its open.
+
+ATOM 1.5 - Outro to video for google chrome
+Nice and easy right?, you're almost fully prepared to call yourself a web developer, but for now we need a few more things.
+ We'll revisit atom shortly.
